@@ -59,4 +59,4 @@ Please have a look material I find valuable
 * Labs - [Blue Team Labs](/https://blueteamlabs.online/), [CyberDefenders](https://cyberdefenders.org/), [The DFIR Report](https://thedfirreport.com/), [LetsDefend](https://app.letsdefend.io/), [HackTheBox](https://www.hackthebox.com/)
 * Code of Ethics - [ISC<sup>2</sup> Code of Ethics](https://www.isc2.org/ethics)
 
->Please note that I used the work of [Kwangsa19](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio) as a template for this page, as I learn Markdown.
+>Please note that I have used the work of [Kwangsa19](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio) as a template for this page, until I become more proficient with GitHub.
