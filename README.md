@@ -29,7 +29,6 @@ Additionally, they has paved the way for me to pursue one of the following entry
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://github.com/hammer-and-anvil/30-Day-SOC-Analyst-Challenge) - 30-Day SOC Analyst Challenge | `Draw logical diagrams`, `Setup and configure ELK`, `Install agents and push logs to Elasticsearch`, `Attack, detect, and investigate`, `Create alerts and dashboards`, `Setup and integrate ticketing system` |
-| [2](https://github.com/hammer-and-anvil/30-Day-SOC-Analyst-Challenge) - 30-Day SOC Analyst Challenge | `Draw logical diagrams`, `Setup and configure ELK`, `Attack, detect, and investigate`, `Create alerts and dashboards`, `Setup and integrate ticketing system` |
 | [x](https://github.com/hammer-and-anvil/Home-Network.git) - Home Network | `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security` | 
 
 ### Tools 
